@@ -1,0 +1,36 @@
+.resume {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.resume-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.resume-section {
+  margin-bottom: 20px;
+}
+
+.resume-section-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #1e90ff;
+  margin-bottom: 10px;
+}
+
+.resume-expertise-list {
+  list-style-type: square;
+  padding-left: 0;
+  display: inline-block; /* Centers the list */
+  text-align: left; /* Aligns text within the list to the left */
+}
+
+.resume-expertise-list li {
+  font-size: 1rem;
+  line-height: 1.5;
+}
